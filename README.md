@@ -4,9 +4,9 @@
 </h1>
 
 ### About
-- Freshman at UC Berkeley
-- Studying Data Science
-- Interested in machine learning, big data, and the applications of CS in scientific research
+- Sophomore at UC Berkeley
+- Studying Computer Science + Data Science
+- Interested in machine learning, big data, and the applications of CS in aerospace and defense industries
 
 ___
 ### :hammer_and_wrench: Languages and Tools :
